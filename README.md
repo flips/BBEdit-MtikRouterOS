@@ -12,6 +12,10 @@ Also would like to get variables to be reconized and parsed as such, so that for
 
 (If you wonder: I've focused mainly on getting different colors in the syntax highlighting, not on it being correct type.)
 
+## Licence
+As stated in the `.plist` file:  
+
+
 ## Change log
 ### Version 1.x
 Created for BBEdit 12.x.
