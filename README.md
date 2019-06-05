@@ -1,4 +1,4 @@
-# MikroTik RouterOS Codeless language module
+# MikroTik RouterOS Codeless Language Module
 Support for syntax highlighting opening `.rsc` files in BBEdit.
 
 Place the `MikroTikRouterOS.plist` file in your `Application Support/BBEdit/Language Modules` folder.
