@@ -12,14 +12,20 @@ Also would like to get variables to be reconized and parsed as such, so that for
 
 (If you wonder: I've focused mainly on getting different colors in the syntax highlighting, not on it being correct type.)
 
+## Change Log
+### v0.2 - 20190605
+Fixed some parsing, sorted into different keyword categories
+
+### v0.1 - 20190223
+Initial file. Not really working too well. ;-)
+Created for BBEdit 12.6.x
+
 ## Licence
 As stated in the `.plist` file:  
-Released under a Creative Commons Attribution-ShareAlike License:
+Released under a
+[Creative Commons Attribution-ShareAlike License](<http://www.creativecommons.org/licenses/by-sa/3.0/)
 
-        <http://www.creativecommons.org/licenses/by-sa/3.0/>
+### Related URLs/Links
 
-
-
-## Change log
-### Version 1.x
-Created for BBEdit 12.x.
+- [MikroTik](https://mikrotik.com/)
+- [BBEdit](https://www.barebones.com/products/bbedit/index.html)

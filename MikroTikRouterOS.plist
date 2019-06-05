@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
-<plist version="0.1"> 
+<plist version="0.2"> 
 
 <!--
 	BBEdit codeless language module for Mikrotik RouterOS (<http://mikrotik.com/>) export/setup files.
-	Filip Stokkeland <flips @ Luminated.no>
-	Version 0.1, 04-Jun-2019
+	Filip Stokkeland <flips -at- Luminated.no>
+	Version 0.2, 05-Jun-2019
 
 	Based loosely on template from created by Seth Dillingham, Macrobyte Resources,
 	Seth: <http://www.truerwords.net/> or <seth@macrobyte.net>
@@ -14,11 +14,10 @@
 	<http://www.creativecommons.org/licenses/by-sa/3.0/>
 	
 	Version History:
-
+		Version 0.2 (05-Jun-2019):
+		  - Updated keyword categories
 		Version 0.1 (23-Feb-2019):
 		  - Initial version
-		Version 0.2 (04-Jun-2019):
-		  - Updated keyword categories
 -->
 
 <dict> 
