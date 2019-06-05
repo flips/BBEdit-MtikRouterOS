@@ -22,8 +22,8 @@ Created for BBEdit 12.6.x
 
 ## Licence
 As stated in the `.plist` file:  
-Released under a
-[Creative Commons Attribution-ShareAlike License](http://www.creativecommons.org/licenses/by-sa/3.0/)
+Released under the
+[Creative Commons Attribution-ShareAlike License v3](http://www.creativecommons.org/licenses/by-sa/3.0/)
 
 ### Related URLs/Links
 
