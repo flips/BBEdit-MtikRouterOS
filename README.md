@@ -14,6 +14,10 @@ Also would like to get variables to be reconized and parsed as such, so that for
 
 ## Licence
 As stated in the `.plist` file:  
+Released under a Creative Commons Attribution-ShareAlike License:
+
+        <http://www.creativecommons.org/licenses/by-sa/3.0/>
+
 
 
 ## Change log
