@@ -48,7 +48,7 @@
           <string>/routing</string>
           <string>/system</string>
           <string>/tool</string>
-          <string>\/foobar</string>
+          <string>/foobar</string>
           <string>nozoo</string>
         </array>
       </dict>
@@ -319,7 +319,7 @@
     <key>Open Statement Blocks</key>      <string>{</string>
     <key>Close Statement Blocks</key>     <string>}</string>
     <key>Identifier and Keyword Character Class</key>
-    <string>A-Za-z0-9_</string>
+    <string>A-Za-z0-9:_/</string>
     <key>Comment Pattern</key>
     <string><![CDATA[
     (?x:
@@ -338,4 +338,3 @@
   </dict>
 </dict> 
 </plist>
-
